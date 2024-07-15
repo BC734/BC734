@@ -14,7 +14,8 @@ After spending 12 years with my family's company, I am pursuing a career change.
 
 ## Ongoing education for SQL skills
 - Break Into Tech Certificate Course
-- [![roadmap.sh](https://roadmap.sh/card/tall/66954d89298168c1091f0b1d?variant=dark&roadmaps=sql)](https://roadmap.sh)
+- Roadmap.sh SQL Roadmap
+-   [![roadmap.sh](https://roadmap.sh/card/tall/66954d89298168c1091f0b1d?variant=dark&roadmaps=sql)](https://roadmap.sh)
 
 My intention in the next month is to complete the Break Into Tech Certificate course, continue to complete items on the roadmap.sh guide, and complete at least one more case study - this time using SQL and Tableau to demonstrate those skills. 
 
